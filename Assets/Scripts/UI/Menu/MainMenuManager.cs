@@ -496,7 +496,7 @@ public class MainMenuManager : MonoBehaviour, ILobbyCallbacks, IInRoomCallbacks,
                 if (upToDate)
                     return;
 
-                updateText.text = $"An update is available:\n\nNew Version: {latestVersion}\nCurrent Version: {Application.version}";
+                updateText.text = $"An update to the mod is available:\n\nNew Version: {latestVersion}\nCurrent Version: {Application.version}";
                 updateBox.SetActive(true);
                 EventSystem.current.SetSelectedGameObject(updateBoxSelected);
             });
@@ -1266,7 +1266,7 @@ public class MainMenuManager : MonoBehaviour, ILobbyCallbacks, IInRoomCallbacks,
         textComp.color = color;
     }
     public void OpenLinks() {
-        Application.OpenURL("https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/blob/master/LINKS.md");
+        Application.OpenURL("https://github.com/DillyzThe1/NSMB-MarioVsLuigi-Plus/blob/master/LINKS.md");
     }
     public void Quit() {
         if (quit)
@@ -1339,7 +1339,7 @@ public class MainMenuManager : MonoBehaviour, ILobbyCallbacks, IInRoomCallbacks,
     }
 
     public void OpenDownloadsPage() {
-        Application.OpenURL("https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/releases/latest");
+        Application.OpenURL("https://github.com/DillyzThe1/NSMB-MarioVsLuigi-Plus/releases/latest");
         OpenMainMenu();
     }
 
