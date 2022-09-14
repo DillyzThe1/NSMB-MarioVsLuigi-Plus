@@ -1,8 +1,26 @@
-# NSMB-MarioVsLuigi
-A unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS download game. 
+# NSMB: MarioVsLuigi *Plus*
+A modification of the unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS download game. 
 
-Includes the 5 default levels (Grassland, Bricks, Castle, Pipes, and Ice), along with a handful of custom levels to battle on! 
-All power-ups are included and remain faithful to their original counterparts, along with the new addition of the Propeller Suit & Ice Flower!
+<a href="https://github.com/ipodtouch0218/NSMB-MarioVsLuigi/">Play the original remake of the game here.<a/>
+
+<section>
+So, what's in this mod?<br>
+This mod includes unique features such as:<br>
+- nothing rn i just made the repository a few hours late lmao<br>
+</section>
+<section>
+What's planned to be in the mod?<br>
+The features most likely to make it in are:<br>
+- Level Editor<br>
+- Powerup Disabling Menu<br>
+- Custom Color Palettes<br>
+- New Maps<br>
+</section>
+
+<i>Note: This is a recreation of a private mod I made before for public usage. I am redoing everything to allow it to be more flexible and reliable without the programming of the inside jokes.</i><br>
+<i>Things I have already made and will simply be redoing rather quickly aer:</i><br>
+- <i>The Powerup Disabling Menu<i/>
+- <i>The First New Map<i/>
 
 ## Discord
 [**Join the discord**](https://discord.gg/dgKVaUKpj5) to keep up to date with the development of the game, make feature suggestions, report bugs (if you're too lazy to use issues...), get technical support, look for people to play with, and just talk about the game!
