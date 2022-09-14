@@ -18,7 +18,7 @@ The features most likely to make it in are:<br>
 </section>
 
 <i>Note: This is a recreation of a private mod I made before for public usage. I am redoing everything to allow it to be more flexible and reliable without the programming of the inside jokes.</i><br>
-<i>Things I have already made and will simply be redoing rather quickly aer:</i><br>
+<i>Things I have already made and will simply be redoing rather quickly are:</i><br>
 - <i>The Powerup Disabling Menu<i/>
 - <i>The First New Map<i/>
 
