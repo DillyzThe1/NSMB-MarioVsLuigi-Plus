@@ -8,6 +8,7 @@ So, what's in this mod?<br>
 This mod includes unique features such as:<br>
 - nothing rn i just made the repository a few hours late lmao<br>
 </section>
+<br>
 <section>
 What's planned to be in the mod?<br>
 The features most likely to make it in are:<br>
@@ -16,11 +17,13 @@ The features most likely to make it in are:<br>
 - Custom Color Palettes<br>
 - New Maps<br>
 </section>
-
+<br>
+<section>
 <i>Note: This is a recreation of a private mod I made before for public usage. I am redoing everything to allow it to be more flexible and reliable without the programming of the inside jokes.</i><br>
 <i>Things I have already made and will simply be redoing rather quickly are:</i><br>
-- <i>The Powerup Disabling Menu<i/>
+- <i>The Powerup Disabling Menu<i/><br>
 - <i>The First New Map<i/>
+</section>
 
 ## Discord
 [**Join the discord**](https://discord.gg/dgKVaUKpj5) to keep up to date with the development of the game, make feature suggestions, report bugs (if you're too lazy to use issues...), get technical support, look for people to play with, and just talk about the game!
