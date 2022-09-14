@@ -7,7 +7,7 @@ Based on version v1.7.1.0-beta's source code.
 <section>
 So, what's in this mod?<br>
 This mod includes unique features such as:<br>
-- nothing rn i just made the repository a few hours late lmao<br>
+- Accessing the Debug Maps (ChrisLevel, DebugLevel, & TemplateLevel)<br>
 </section>
 <br>
 <section>
